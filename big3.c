@@ -2,7 +2,7 @@
 int main() {
     int number;
 
-    printf("Enter an integer: ");
+    printf("Give an integer: ");
     scanf("%d", &number);
 
     // true if number is less than 0
