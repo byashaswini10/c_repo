@@ -1,5 +1,5 @@
 #include <stdio.h>
-void fact() {
+void facto() {
     int n, rev = 0, remainder;
     printf("Enter an integer: ");
     scanf("%d", &n);

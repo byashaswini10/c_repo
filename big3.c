@@ -1,5 +1,5 @@
 #include <stdio.h>
-void big3() {
+void bigg3() {
     int number;
 
     printf("Give an integer: ");

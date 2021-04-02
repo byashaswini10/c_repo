@@ -2,7 +2,7 @@
 
 main()
      {
-             big3();
-             fact();
+             bigg3();
+             facto();
       }
 
