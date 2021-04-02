@@ -9,6 +9,6 @@ void facto() {
         n /= 10;
     }
     printf("Reversed number = %d", rev);
-    //return 0;
+   
 }
 
