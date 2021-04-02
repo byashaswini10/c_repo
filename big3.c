@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void big3() {
     int number;
 
     printf("Give an integer: ");
@@ -12,6 +12,6 @@ int main() {
 
     printf("The if statement is easy.");
 
-    return 0;
+   // return 0;
 }
 
